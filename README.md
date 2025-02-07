@@ -23,4 +23,4 @@ This project is a simple demonstration of a **Retrieval-Augmented Generation (RA
 You can install all the required packages using pip:
 
 
-pip install langchain transformers faiss-cpu sentence-transformers
+`pip install langchain transformers faiss-cpu sentence-transformers`
